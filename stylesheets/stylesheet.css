@@ -59,9 +59,32 @@ a {
   background-image: url("http://i.imgur.com/h4gyQRs.gif"); 
   background-size:   cover; }
   
-.roundrect {
-border-radius: 150px;
-}
+.circular1 {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("http://i.imgur.com/NwhkGIh.gif") no-repeat;
+  }
+
+.circular2 {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("http://i.imgur.com/5MTZqyc.jpg") no-repeat;
+  }
+
+.circular3 {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("thtp://i.imgur.com/r3Hjl1n.gif") no-repeat;
+  }
 
 @media screen and (min-width: 64em) {
   .page-header {

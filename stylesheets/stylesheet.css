@@ -57,7 +57,10 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: url("http://i.imgur.com/h4gyQRs.gif"); }
+  background-image: url("http://i.imgur.com/h4gyQRs.gif"); 
+  background-size:   cover; 
+  background-repeat: no-repeat;
+  background-position: center center;}
 
 @media screen and (min-width: 64em) {
   .page-header {

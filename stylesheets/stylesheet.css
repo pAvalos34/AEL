@@ -53,10 +53,6 @@ a {
       margin-top: 1rem;
       margin-left: 0; } }
 
-table, th, td {
-    border-collapse: collapse;
-}
-
 .page-header {
   text-align: center;
   background-color: #159957;
